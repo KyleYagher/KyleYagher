@@ -1,4 +1,4 @@
-![Header](https://github.com/KyleYagher/KyleYagher/blob/main/banner_new.png "Header")
+![Header](https://github.com/KyleYagher/KyleYagher/blob/main/banner.png "Header")
 - 👋 Hi, I’m @KyleYagher, a Junior Software / DevOps Engineer from Cape Town South Africa.
 - 👀 I’m interested in in all things Tech, family and advancing my career as a software engineer.
 - 🌱 I’m currently immersed in a Software Engineering Bootcamp teaching me Python, Java, HTML, CSS amongst other CS subject matter.
