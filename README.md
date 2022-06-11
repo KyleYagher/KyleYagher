@@ -1,6 +1,6 @@
 ![Header](https://github.com/KyleYagher/KyleYagher/blob/main/banner.png "Header")
-_______________________________________________________________________________________</p>
-- 👋 Hi, I’m Kyle Jacobs, a Junior Software / DevOps Engineer from Cape Town South Africa.
+________________________________________________________________________________________________________________</p>
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hello Folks! </p>
 - 👀 I’m interested in in all things Tech, family and advancing my career as a software engineer.
 - 🌱 I’m currently immersed in a Software Engineering Bootcamp teaching me Python, Java, HTML, CSS amongst other CS subject matter.
 - 💞️ I’m looking to collaborate on projects and anything that will expand my programming skill set..
