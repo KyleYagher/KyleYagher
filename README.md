@@ -1,5 +1,5 @@
 ![Header](https://github.com/KyleYagher/KyleYagher/blob/main/banner.png "Header")
-________________________________________________________________________________________________________________</p>
+##
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hello Folks! </p>
 ### Introductions first...
 - :raising_hand_man: My name is***Kyle Jacobs*** and I am a ***Software / DevOps Engineer**** in ***Cape Town South Africa***.
