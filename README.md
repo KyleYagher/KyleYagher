@@ -2,7 +2,7 @@
 ##
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hello Folks! </p>
 ### Introductions first...
-- :raising_hand_man: My name is***Kyle Jacobs*** and I am a ***Software / DevOps Engineer**** in ***Cape Town South Africa***.
+- :raising_hand_man: My name is ***Kyle Jacobs*** and I am a ***Software / DevOps Engineer**** in ***Cape Town South Africa***.
 ### &nbsp;&nbsp;My interests are... 
   - :computer: All things ***Tech***. 
   - :family_man_woman_girl_boy: Spending time with ***Family*** & ***Friends***.
