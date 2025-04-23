@@ -10,13 +10,13 @@
 ### I am currently immersed in... 
   - :books: ***ML Projects*** as my main functional interest:<break>
 ### My Proficiency matrix includes...
-    - ***C#***
-    - ***JS*** 
-    - ***Python*** 
-    - ***Java*** 
-    - ***HTML*** 
-    - ***CSS*** </br>
-*** *amongst other **Computer Science** related subject matter* *** <br> 
+  - ***C#***
+  - ***JS*** 
+  - ***Python*** 
+  - ***Java*** 
+  - ***HTML*** 
+  - ***CSS*** 
+*** *amongst other **Computer Science** related subject matter* ***
 ### If you would like to collaborate on... 
   - :atom: ***Projects***
   - :electron: Any other ***Tech related*** endevours
