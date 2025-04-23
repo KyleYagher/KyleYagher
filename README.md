@@ -9,7 +9,7 @@
   - :open_file_folder: Advancing my ***Skillsets*** and ***Career*** as a ***Software Engineer***.
 ### I am currently immersed in... 
   - :books: ***ML Projects*** as my main functional interest:
-  - :Star: ***Proficient In...***
+  - :boom: ***Proficient In...***
     - ***C#***
     - ***JS*** 
     - ***Python*** 
