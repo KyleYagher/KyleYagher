@@ -15,7 +15,7 @@
   - ***Python*** 
   - ***Java*** 
   - ***HTML*** 
-  - ***CSS*** 
+  - ***CSS*** <br>
 *** *amongst other **Computer Science** related subject matter* ***
 ### If you would like to collaborate on... 
   - :atom: ***Projects***
