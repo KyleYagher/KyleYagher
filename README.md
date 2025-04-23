@@ -7,9 +7,10 @@
   - :computer: All things ***Tech***. 
   - :family_man_woman_girl_boy: Spending time with ***Family*** & ***Friends***.
   - :open_file_folder: Advancing my ***Skillsets*** and ***Career*** as a ***Software Engineer***.
-### I am currently immersed in... 
+###:dizzy: I am currently immersed in... 
   - :books: ***ML Projects*** as my main functional interest:
-  - :boom: ***Proficient In...***
+    <br>
+###:boom: My Proficiency matrix includes...
     - ***C#***
     - ***JS*** 
     - ***Python*** 
