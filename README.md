@@ -8,7 +8,10 @@
   - :family_man_woman_girl_boy: Spending time with ***Family*** & ***Friends***.
   - :open_file_folder: Advancing my ***Skillsets*** and ***Career*** as a ***Software Engineer***.
 ### I am currently immersed in... 
-  - :books: ***Software Engineering Bootcamp*** that will mark me proficient in:  
+  - :books: ***ML Projects*** as a my main functional interest:
+  - :books: ***Proficient In...***
+    - ***C#***
+    - ***JS*** 
     - ***Python*** 
     - ***Java*** 
     - ***HTML*** 
