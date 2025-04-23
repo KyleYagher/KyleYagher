@@ -16,7 +16,7 @@
   - ***Java*** 
   - ***HTML*** 
   - ***CSS*** <br>
-*** *amongst other **Computer Science** related subject matter* ***
+### Amongst other **Computer Science** related subject matter
 ### If you would like to collaborate on... 
   - :atom: ***Projects***
   - :electron: Any other ***Tech related*** endevours
