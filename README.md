@@ -8,7 +8,7 @@
   - :family_man_woman_girl_boy: Spending time with ***Family*** & ***Friends***.
   - :open_file_folder: Advancing my ***Skillsets*** and ***Career*** as a ***Software Engineer***.
 ### I am currently immersed in... 
-  - :books: ***ML Projects*** as my main functional interest:<break>
+  - :books: ***React and React Native Projects*** as my main functional interest:<break>
 ### My Proficiency matrix includes...
   - ***C#***
   - ***JS*** 
